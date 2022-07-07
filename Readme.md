@@ -11,7 +11,11 @@
 
 #### Add node sdk for translator
 - Install the google-translate package from npm using the following command,
-										
+
+```
+npm install
+```
+or					
 ```
 npm install google-translate 										
 ```										

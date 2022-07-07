@@ -1,0 +1,28 @@
+{
+  "name": "google-translate-text",
+  "version": "1.0.0",
+  "description": "- Navigate to https://console.developers.google.com and login using your google credentials.\r - Create a new Project. Once the project is created, you'll be navigated to the app dashboard screen and click on the Cloud Translation API.\r - On the Cloud Translation API page just click on enable button\r - Click on the create credentials button to create your API key\r - Click on the API Key to create an API Key\r - Choose a name for your api key or keep it default and click on create API key keeping all other options as default\r - Now, you can copy your API key for your nodejs project.",
+  "main": "index.js",
+  "dependencies": {
+    "google-translate": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemaker2015/google-translate-text-nodejs.git"
+  },
+  "keywords": [
+    "google",
+    "translate"
+  ],
+  "author": "Vishnu Sivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codemaker2015/google-translate-text-nodejs/issues"
+  },
+  "homepage": "https://github.com/codemaker2015/google-translate-text-nodejs#readme"
+}
